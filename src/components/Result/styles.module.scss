@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  h1{
+    margin-bottom: 24px;
+  }
+  h1, p{
+    color: #000b39;
+  }
+  
+  button{
+    height: 46px;
+    background-color: #128cfe;
+    border-radius: 8px;
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    padding: 0 20px;
+    cursor: pointer;
+    margin-top: 40px;
+  }
+}
