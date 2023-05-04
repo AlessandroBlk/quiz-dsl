@@ -16,4 +16,3 @@ export function ProgressBar({size, currentStep}) {
 }
 
 
-//https://github.com/AlessandroBlk/quiz-dsl.git
